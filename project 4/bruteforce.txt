@@ -1,0 +1,4 @@
+
+python bruteforce.py -U test-username.txt -P test-password.txt -f "Login Failed" http://0.0.0.0:3000/login
+guest
+orange
